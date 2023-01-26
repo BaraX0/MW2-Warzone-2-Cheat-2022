@@ -12,6 +12,7 @@ class Camera
 {
 public:
 	
+	
 	char pad_0000[8]; //0x0000
 	uint32_t Width; //0x0008
 	uint32_t Height; //0x000C
